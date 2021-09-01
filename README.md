@@ -79,6 +79,6 @@ I think I will like to focus on css arts and animations for now.
 - [background-images](https://www.css-tricks.com/css-basics-using-multiple-backgrounds/) - This is an amazing article which helped me finally understand background-images. I'd recommend it to anyone still learning this concept.
 
 ## Author
-- Frontend Mentor - [@Dan rare](https://www.frontendmentor.io/profile/Dan rare)
-- Twitter - [@DanRare1](https://www.twitter.com/Dan Rare)
+- Frontend Mentor - [@Dan rare](https://www.frontendmentor.io/profile/Danrare)
+- Twitter - [@DanRare1](https://www.twitter.com/DanRare)
 
