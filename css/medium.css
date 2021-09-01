@@ -1,0 +1,44 @@
+@media(min-width:770px) {
+    body{
+        background-image:url("/images/bg-pattern-top-desktop.svg"),
+         url("/images/bg-pattern-bottom-desktop.svg");
+        background-repeat: no-repeat;
+        background-position: top left, bottom right;
+        background-size:625px, 1115px;
+    }
+
+    h1{
+        font-size: 40px;
+    }
+
+    h1+p{
+        font-size: 1rem;
+    }
+
+    .top{
+        display:flex;
+        justify-content: space-evenly;
+        align-items: baseline;
+    }
+
+    .top-container{
+        width:45%;
+    }
+
+    .middle-container{
+        width: 45%;
+    }
+
+    .bottom-container{
+        display:flex;
+    }
+
+    .testimonial{
+        width:45%;
+        margin:0 10px;
+    }
+
+    .space{
+        margin:20px 0;
+    }
+}
