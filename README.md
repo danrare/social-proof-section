@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](images/social-proof-design-desktop.PNG)
-![screenshot](images/social-proof-design-mobile.png)
+![social-proof-design](images/social-proof-design-desktop.PNG)
+![social-proof-design](images/social-proof-design-mobile.png)
 
 The above are the screen shots of my design.
 
